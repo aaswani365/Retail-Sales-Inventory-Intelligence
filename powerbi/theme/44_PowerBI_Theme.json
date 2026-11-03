@@ -1,0 +1,115 @@
+{
+  "name": "Retail Intelligence Portfolio Theme",
+  "dataColors": [
+    "#2F6BFF",
+    "#00A6A6",
+    "#7459C8",
+    "#2E9D62",
+    "#F4A62A",
+    "#D64550",
+    "#4776E6",
+    "#26B5A5",
+    "#9A6DD7",
+    "#5AB978",
+    "#F6C453",
+    "#E36B72"
+  ],
+  "background": "#F5F7FA",
+  "foreground": "#1D2733",
+  "tableAccent": "#2F6BFF",
+  "good": "#2E9D62",
+  "neutral": "#F4A62A",
+  "bad": "#D64550",
+  "maximum": "#2F6BFF",
+  "center": "#E8EEF9",
+  "minimum": "#D64550",
+  "null": "#98A2B3",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 28,
+      "color": "#1D2733"
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#1D2733"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 11,
+      "color": "#1D2733"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#667085"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#E4E7EC"
+              }
+            },
+            "radius": 8
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 12,
+            "color": {
+              "solid": {
+                "color": "#1D2733"
+              }
+            },
+            "alignment": "left"
+          }
+        ],
+        "visualHeader": [
+          {
+            "show": true,
+            "foreground": {
+              "solid": {
+                "color": "#667085"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#F5F7FA"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}

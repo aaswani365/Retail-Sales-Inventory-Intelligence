@@ -669,7 +669,7 @@ Add real source ingestion, incremental loading, orchestration/monitoring, access
 **Author:** Akshay Aswani  
 **Portfolio:** [aaswani365.github.io](https://aaswani365.github.io/)  
 **GitHub:** [github.com/aaswani365](https://github.com/aaswani365)  
-**Project type:** Independent Data Analyst / Power BI Analyst portfolio case study.
+**Live Dashboard:** [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiY2E2OTYyYzEtNjI5MS00MTM2LTgzM2QtZGQ5NGM2NWEyODAzIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9)
 
 **Status:** SQL implementation and documented SQL-side validation are available; final repository path verification, screenshot publication, Power BI reconciliation, and manual UAT sign-off should be completed before claiming a fully accepted release.
 
